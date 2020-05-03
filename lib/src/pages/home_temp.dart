@@ -45,7 +45,7 @@ List<Widget> _crearListaCorta(){
           title: Text(item+' !'),
           subtitle: Text('viqui mobile'),
           leading: Icon(Icons.access_alarm),
-          trailing: Icon(Icons.ac_unit),
+          trailing: Icon(Icons.keyboard_arrow_right),
           onTap: (){},
 
         ),
